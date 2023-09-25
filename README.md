@@ -12,7 +12,7 @@
 
 1. In the header i created a Navigation bar with logo using the following code:
 <header>
-        <img src="./img/index/portlogo.png" alt="port logo" />
+        <img src="./img/main/portlogo.jpg" alt="port logo" />
         <nav>
             <ul>
              <li>
@@ -59,20 +59,18 @@ scroll-padding-top: 100px;
 
 <section id="gallery">
            <div>
-              <img src="./img/gallery/server.jpg" alt="server room photo" />
-              <img src="./img/gallery/server1.jpg" alt="server room photo1" />
-              <img src="./img/gallery/server2.jpg" alt="server room photo2" />
-           </div>
-           <div>
-            <img src="./img//gallery/server3.jpg" alt="server room photo3" />
+            <img src="./img/gallery/m1.jpg" alt="server room photo" />
+            <img src="./img/gallery/m2.jpeg" alt="server room photo1" />
+            <img src="./img/gallery/m3.jpg" alt="server room photo2" />
+          </div>
+          <div>
+            <img src="./img//gallery/m4.jpg" alt="server room photo3" />
             <div class="placeHolderDiv"></div>
-            <img src="./img/gallery/hardware1.jpg" alt="Hardware photo1" />
-           </div>
-           <div>
-            <img src="./img/gallery/hardware2.jpg" alt="Hardware photo2" />
-            <img src="./img/gallery/hardware3.jpg" alt="Hardware photo3" />
-            <img src="./img/gallery/coding.jpg" alt="coding photo" />
-           </div>
+            <img src="./img/gallery/m5.jpg" alt="Hardware photo1" />
+          </div>
+          <div>
+            <img src="./img/gallery/m6.jpg" alt="Hardware photo2" />
+          </div>
       </section>
 
 2. I give it animation effect using the following code in images.css file:
@@ -136,4 +134,4 @@ box-shadow: 5px 5px 5px goldenrod;
 </div>
 </form>
 
-<!-- action="submit.php" method="POST" to add after form as id to activate submit later-->
+
